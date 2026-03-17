@@ -1,0 +1,1 @@
+There are scripts that facilitate this repo's usage, these are inside of a folder called scripts and have the functions of compileAll (compiles all the java files) and launch (launches 3 terminals, one with the server, one with the proxy and one with VLC) there is a constant that can be changed that defines what movie is played
